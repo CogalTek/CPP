@@ -1,9 +1,11 @@
 /*
 ** EPITECH PROJECT, 2023
-** Plazza
+** Projet
 ** File description:
 ** main
 */
+
+#include "my.hpp"
 
 int main (void)
 {
